@@ -1,4 +1,4 @@
-# Vanilla - Grocery List [SPA]
+# Vanilla - Grocery List [TODO localstorage CRUD list]
 
 ## ✍🏻 Description
 Create a dynamic TODO list with access to local storage. The purpose of this small project is to discover the principles of vanilla javascript:
@@ -6,7 +6,7 @@ Create a dynamic TODO list with access to local storage. The purpose of this sma
 * Insert html code (dynamic content).
 * Work with the local storage.
 
-You can create, eddit and delete items inside of your grocery list.
+You can create, edit and delete items inside of your grocery list.
 ## Enjoy and share! 🤗
 
 
